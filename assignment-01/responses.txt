@@ -1,0 +1,4 @@
+How is the web different than the internet? The internet is a wide and broad blobal network for networks, while the web is the collection of the data or information found on the web
+Briefly describe how the internet works. The internet works by a huge number of computers called routers working together sending infomation from one to the other. While its traveling between the two, its "located in the internet at that time.
+What is a directory, and what is its relationship to files? A directory is an organizational unit used to organize files, sort of like an online filing cabnet. Each file is organized and placed in a specific spot in the directory. 
+Why is using a VCS beneficial? A VCS allows multiple people to work on a specific file at the same time and later merging there results. Google docs is an example of this, it allows you to work indivually with one another.
